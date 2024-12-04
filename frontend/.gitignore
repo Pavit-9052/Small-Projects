@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+/Backend-obfuscated/config
+
 # production
 /build
 
